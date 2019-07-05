@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d90cb3e-a1a1-4217-89e8-dc44853b5991" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gitdemo/src/main/webapp/index.html" afterDir="false" />
+    <list default="true" id="0d90cb3e-a1a1-4217-89e8-dc44853b5991" name="Default Changelist" comment="滚">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/gitdemo/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -53,8 +53,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/gitdemo/src/main/webapp/index.html" />
         <option value="$PROJECT_DIR$/gitdemo/src/main/java/com/bb/domian/User.java" />
+        <option value="$PROJECT_DIR$/gitdemo/src/main/webapp/index.html" />
       </list>
     </option>
   </component>
@@ -144,7 +144,7 @@
       <updated>1562292411474</updated>
       <workItem from="1562292412640" duration="48000" />
       <workItem from="1562295010174" duration="198000" />
-      <workItem from="1562296051483" duration="632000" />
+      <workItem from="1562296051483" duration="818000" />
     </task>
     <task id="LOCAL-00001" summary="后端">
       <created>1562295157975</created>
@@ -167,16 +167,24 @@
       <option name="project" value="LOCAL" />
       <updated>1562296326220</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="滚">
+      <created>1562296812123</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1562296812123</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="878000" />
+    <option name="totallyTimeSpent" value="1064000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18176973" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18176973" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -191,7 +199,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -235,7 +243,7 @@
     <entry file="file://$PROJECT_DIR$/gitdemo/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
         </state>
       </provider>
     </entry>
